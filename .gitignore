@@ -1,5 +1,7 @@
 .DS_Store
+training/.DS_Store
 .env
 yolo11x.pt
 yolov8x.pt
 yolov10x.pt
+training/yolov5l6u.pt
